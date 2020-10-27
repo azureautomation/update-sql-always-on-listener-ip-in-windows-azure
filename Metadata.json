@@ -1,0 +1,20 @@
+{
+    "Author": "michaelwasham",
+    "ContentSize": 3426,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-sql-always-on-listener-ip-in-windows-azure/master/UpdateSQLAlwaysOnVIP.ps1",
+    "DownloadCount": 1689,
+    "Id": "Update-SQL-Always-On-b5633393",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 436,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-11-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The SQL Server Always On Listener uses the IP Address of the Cloud Service for virtualized connectivity. This script updates the listener if the cloud service IP address has changed.",
+    "Title": "Update SQL Always On Listener IP in Windows Azure",
+    "UpdatedDate": "2013-11-18T00:00:00",
+    "Url": "https://github.com/azureautomation/update-sql-always-on-listener-ip-in-windows-azure",
+    "UserTags": "SQL Server AlwaysOn"
+}
